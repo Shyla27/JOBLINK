@@ -91,7 +91,7 @@
                         tools:ignore="VectorDrawableCompat" />
 
                     <Button
-                        android:id="@+id/buttonTutor"
+                        android:id="@+id/company"
                         android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="30dp"
@@ -166,7 +166,7 @@
                         tools:ignore="VectorDrawableCompat" />
 
                     <Button
-                        android:id="@+id/buttonStudent"
+                        android:id="@+id/intern"
                         android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="30dp"
