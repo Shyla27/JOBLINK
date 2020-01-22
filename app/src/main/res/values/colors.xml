@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#8EF4EC</color>
+    <color name="colorPrimaryDark">#5F9EA0</color>
+    <color name="darkKhaki">#BDB76B</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="colorAccent">#845EC2</color>
+    <color name="White">#fafafa</color>
+    <color name="heads"> #041515</color>
+    <color name="facebook">#00008B</color>
+    <color name="buttons">#8EF4EC</color>
+    <color name="background">  #ADC4C4</color>
+    <color name="cover">#076956</color>
+    <color name="colo"> #5EAFA6</color>
+    <color name="page">#068971</color>
+    <color name="error"> #9D4C32</color>
+    <color name="secondaryTextColor" tools:ignore="MissingDefaultResource">#068971</color>
+
+
 </resources>
